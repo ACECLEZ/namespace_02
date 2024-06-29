@@ -1,6 +1,8 @@
 from flask import Flask
 app = Flask(__name__)
 @app.route('/')
+def wave():
+  print("hi")
 
 @app.route('/animal/<noise>')
 def which_animal(noise):
