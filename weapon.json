@@ -1,0 +1,1 @@
+{"wooden_sword": {"name": "Wooden sword", "item_id": 1, "stock_available": 20, "selling_price": 5.0}, "iron_sword": {"name": "Iron sword", "item_id": 2, "stock_available": 10, "selling_price": 10.0}, "diamond_sword": {"name": "Diamond sword", "item_id": 3, "stock_available": 5, "selling_price": 30.0}}
